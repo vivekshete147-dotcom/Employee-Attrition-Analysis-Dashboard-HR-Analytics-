@@ -96,8 +96,8 @@ The dashboard empowers HR teams to:
 
 ## 👤 Author
 
-Vivek Shete
-Data Analyst | Power BI | Excel | SQL | Python
-📧 vivekshete147@gmail.com
+- Vivek Shete
+- Data Analyst | Power BI | Excel | SQL | Python
+- 📧 vivekshete147@gmail.com
 
-🔗 LinkedIn Profile :-https://www.linkedin.com/in/vivek-shete-327183363
+- 🔗 LinkedIn Profile :-https://www.linkedin.com/in/vivek-shete-327183363
