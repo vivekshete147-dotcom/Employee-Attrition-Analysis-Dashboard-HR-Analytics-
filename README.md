@@ -1,4 +1,6 @@
 # 💼 Employee Attrition Analysis Dashboard (HR Analytics)
+<img width="994" height="558" alt="ibm" src="https://github.com/user-attachments/assets/d39edbb9-b818-4875-9021-cbff909a8796" />
+
 
 ## 📌 Problem Statement  
 Employee attrition is one of the biggest challenges faced by HR departments worldwide. High turnover not only increases recruitment costs but also affects organizational stability, performance, and employee morale.  
